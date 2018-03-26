@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/kojimaisland.unity
+  isLoaded: 1
+  isActive: 1
